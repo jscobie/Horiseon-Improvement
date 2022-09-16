@@ -14,9 +14,11 @@ The usage of this project is to allow myself to turn this project in for grading
 
 ## Credits
 
-#Credit to the MSU Bootcamp and instructors for training and training materials to resolve some of these issues.
-#MDN Element reference for help on semantic use: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-#MDN Web Docs in general for all their documents: https://developer.mozilla.org/en-US/
+Credit to the MSU Bootcamp and instructors for training and training materials to resolve some of these issues.
+
+MDN Element reference for help on semantic use: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+MDN Web Docs in general for all their documents: https://developer.mozilla.org/en-US/
 
 
 ## License
