@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-The usage of this project is to allow myself to turn this project in for grading to the MSU Bootcamp team.
+The usage of this project is to allow myself to turn this project in for grading to the MSU Bootcamp academic grading team.
 
 ## Credits
 
@@ -19,7 +19,6 @@ Credit to the MSU Bootcamp and instructors for training and training materials t
 MDN Element reference for help on semantic use: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 MDN Web Docs in general for all their documents: https://developer.mozilla.org/en-US/
-
 
 ## License
 
